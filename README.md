@@ -1,4 +1,4 @@
-# 🚀 consumo e ecônomia de energia
+# 🚀 consumo de energia e valor a ser pago pelo usuario 
 
 > Um projeto academico para aprofundamento em python
 
