@@ -6,7 +6,7 @@
 Esse projeto tem como finalidade de calcular o comsumo de energia eletrica de um eletronico e infromar valor total consulmido em kwh, o total em reais no mes  
 
 ## ✨ Fluxograma
-
+![](inicio.png)
 
 ## 🛠 Tecnologias
 As principais ferramentas usadas no projeto:
