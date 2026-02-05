@@ -1,6 +1,6 @@
 potencia = float(input('digite a potencia do eletro (em watts); '))
-horas = int(input('digite o numero de horas de uso por dias: ' ))
-dias = int(input('digite o numero de dias de uso: '))
+horas = int(input('digite o numero de horas utilizado durante o dia: ' ))
+dias = int(input('digite o numero de dias utilizado durante o mês: '))
 tarifa = float(input('digite o valor da tarifa de energia (R$/kwh) '))
 
 
